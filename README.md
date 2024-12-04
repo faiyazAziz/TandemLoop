@@ -17,7 +17,7 @@ This repository contains solutions to the programming test provided by Tandemloo
    ```
 2. Navigate to the repository directory:  
    ```bash
-   cd Tandemloop_Test_Solutions
+   cd TandemLoop
    ```
 3. Run each program using Python:  
    ```bash

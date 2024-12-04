@@ -1,4 +1,4 @@
-# Tandemloop Test Solutions
+# Tandemloop 
 
 ## **Repository Description**
 This repository contains solutions to the programming test provided by Tandemloop. The test consists of four problems, each solved using Python. The solutions are structured as individual Python files, with comments explaining the logic and functionality of the code.
